@@ -57,6 +57,15 @@ a:focus {
     color: #11505d;
 }
 
+.strokeme {
+    color: white;
+    text-shadow:
+        -1px -1px 0 #000000,
+        1px -1px 0 #000000,
+        -1px 1px 0 #000000,
+        1px 1px 0 #000000;
+}
+
 .light {
     font-weight: 400;
 }
