@@ -149,7 +149,7 @@ a:focus {
     color: #fff;
     /* background: url(../img/intro-bg.jpg) no-repeat bottom center scroll; */
     /* background: url(../img/IMG_9507.jpg) no-repeat bottom center scroll; */
-    background: url(../img/1.jpg) no-repeat bottom center scroll;
+    background: url(../img/1.jpg) no-repeat top center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
